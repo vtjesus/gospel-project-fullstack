@@ -1,0 +1,10 @@
+[
+    {
+      "id": "prompt1",
+      "userId": "user1",
+      "question": "What did you do this weekend?",
+      "response": "I was at church! The message was really good...",
+      "type": 1
+    }
+  ]
+  
